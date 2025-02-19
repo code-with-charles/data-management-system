@@ -24,11 +24,11 @@ Role-Based Access Control: Different permissions for different user roles.
 
 Technologies Used
 
-Backend: Python (Django/Flask for API-based versions)
+Programming Language: Python
 
-Database: SQLite/PostgreSQL for data storage
+Frontend: CustomTkinter for graphical user interface
 
-Frontend: HTML, CSS, JavaScript (or React for interactive UI)
+File Management: PIL, OS, and Shutil for handling file operations
 
 Version Control: Git & GitHub
 
@@ -36,18 +36,18 @@ How to Use
 
 Clone the Repository:
 
-git clone https://github.com/code-with-charles/data-management-system.git
+git clone https://github.com/your-username/data-management-system.git
 cd data-management-system
 
 Install Dependencies:
 
 pip install -r requirements.txt
 
-Run the Server:
+Run the Application:
 
-python manage.py runserver
+python main.py
 
-Access the System: Open http://127.0.0.1:8000/ in your browser.
+
 
 Contributing
 
